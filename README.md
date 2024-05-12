@@ -1,4 +1,4 @@
-# EXP-6 Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
+# Ex-6 : Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
@@ -17,8 +17,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ## Program:
 ```
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: C.SHRENIDHI
-RegisterNumber: 212223040196
+Developed by: Vishal T
+RegisterNumber: 212223100060
 ```
 
 ```
